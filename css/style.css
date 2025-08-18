@@ -1,0 +1,140 @@
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            color: #333333;
+        }
+
+        h1 {
+            text-align: center;
+            color: #4a5759;
+        }
+
+        .judul1 {
+            background-color: #c9d6cf;
+            border-radius: 8px;
+            padding: 10px;
+            margin-bottom: 40px;
+        }
+
+        .p1 {
+            text-align: center;
+            font-size: small;
+            color: #7a7a7a;
+        }
+
+        section {
+            background-color: #ffffff;
+            border-radius: 10px;
+            padding: 16px;
+            margin: auto;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+        }
+
+        h2 {
+            background-color: #c9d6cf;
+            border-radius: 8px;
+            padding: 10px;
+            margin-bottom: 30px;
+        }
+
+        .skill1 {
+            background-color: #90a397;
+            color: white;
+            border-radius: 8px;
+            padding: 8px;
+        }
+
+        .skill2 {
+            background-color: #a7b9ac;
+            color: white;
+            border-radius: 8px;
+            padding: 8px;
+        }
+
+        .skill3 {
+            background-color: #70877f;
+            color: white;
+            border-radius: 8px;
+            padding: 8px;
+        }
+
+        .skill4 {
+            background-color: #a7b9ac;
+            color: white;
+            border-radius: 8px;
+            padding: 8px;
+        }
+
+        .skill5 {
+            background-color: #70877f;
+            color: white;
+            border-radius: 8px;
+            padding: 8px;
+        }
+
+        table {
+            margin: 8px;
+            border-collapse: collapse;
+        }
+
+        th {
+            border: 1px solid #333;
+            padding: 16px;
+            background-color: #90a397;
+            color: white;
+        }
+
+        td {
+            border: 1px solid #333;
+            padding: 16px;
+            background-color: #f0f2f1;
+            font-size: 14px;
+        }
+
+        footer {
+            background-color: #ffffff;
+            border-radius: 10px;
+            padding: 16px;
+            margin: auto;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+        }
+
+        .ig {
+            background-color: #90a397;
+            border-radius: 8px;
+            padding: 8px;
+            text-align: center;
+            color: white;
+            text-decoration: none;
+        }
+
+        .liked {
+            background-color: #70877f;
+            border-radius: 8px;
+            padding: 8px;
+            text-align: center;
+            color: white;
+            text-decoration: none;
+        }
+
+        .git {
+            background-color: #c9d6cf;
+            border-radius: 8px;
+            padding: 8px;
+            text-align: center;
+            color: white;
+            text-decoration: none;
+        }
+
+        .akhir {
+            text-align: center;
+            color: #7a7a7a;
+        }
+
+        .kontak {
+            background-color: #c9d6cf;
+            border-radius: 8px;
+            padding: 10px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
