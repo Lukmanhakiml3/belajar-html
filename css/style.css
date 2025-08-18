@@ -3,6 +3,9 @@
             background-color: #ffffff;
             color: #333333;
         }
+        section{
+            margin-top: 30px;
+        }
 
         h1 {
             text-align: center;
@@ -137,4 +140,13 @@
             padding: 10px;
             margin-bottom: 30px;
             text-align: center;
+        }
+        .belajar-box-sizing{
+            box-sizing: border-box;
+            background-color: #70877f;
+            width: 500px;
+            padding: 50px;
+            margin: auto;
+            text-align: center;
+            border: 8px solid red;
         }
