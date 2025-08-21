@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+.main-container {
+  max-width: 500px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 15px;
+  background: #fff;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.header {
+  background-color: #82b6ff;
+  border-radius: 15px 15px 0 0;
+  padding: 20px;
+  text-align: center;
+}
+
+.profil-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border: 4px solid #90caf9;
+}
+
+.profil-img {
+  width: 150px;         /* ukuran foto */
+  height: 150px;        /* biar sama dengan width */
+  object-fit: cover;    /* supaya gambar nggak gepeng */
+  border-radius: 50%;   /* bikin lingkaran */
+  border: 3px solid #333; /* opsional: kasih border */
+}
+
+.social-links {
+  margin-top: 15px;
+  background-color: #b9f6ca;
+  padding: 10px;
+  border-radius: 0 0 15px 15px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.social-links a {
+  background-color: #81d4fa;
+  padding: 8px 12px;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.social-links a:hover {
+  background-color: #98f74f;
+}
+
+.about {
+  padding: 20px;
+  text-align: center;
+  background: #fff;
+}
+
+.button-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 20px;
+  align-items: center;
+}
+
+.btn {
+  padding: 15px 25px;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 80%;
+  transition: background-color 0.3s;
+  color: orange;
+}
+
+.btn.green {
+  background-color: #6b53c1;
+}
+
+.btn.purple {
+  background-color: #93d8b9;
+}
+
+.btn.blue {
+  background-color: #81defa;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
